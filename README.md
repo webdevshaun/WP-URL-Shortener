@@ -3,5 +3,5 @@
 - put the file "shorturl.php" in "themes" folder
 - put the file "public-url-shortener.php" in you're "wp-content/plugins/" folder
 - activate the plugin
-- Use the shortcode [urlshortener]
+- Use the shortcode [urlshortener] <br></br>
 `Thanks /oor-burgel on StackExchange`
